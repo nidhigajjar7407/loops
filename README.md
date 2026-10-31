@@ -28,3 +28,4 @@ Additionally, the project covers checking whether a number is prime, a palindrom
 <img width="622" height="892" alt="image" src="https://github.com/user-attachments/assets/374fcce1-1deb-40a8-809c-fcff1b5829b3" />
 <img width="887" height="851" alt="image" src="https://github.com/user-attachments/assets/abefaf56-9ac2-4841-98f0-c99a19252454" />
 <img width="572" height="270" alt="image" src="https://github.com/user-attachments/assets/e70e82da-b297-4046-8532-38225d4de833" />
+https://drive.google.com/drive/folders/1GKSrwlEGRf4UMla7u71t9_Idx6bnRO5G?usp=sharing
